@@ -5,3 +5,5 @@
 Current projects (✅ = Under development, 🟡 = Maintainted)
 
 ✅ TimeTrack - a simple python timetracking script which will always be extended with further functions
+
+✅ RockPaperScissors - a simple python RockPaperScissors game which will always be extended with further functions
