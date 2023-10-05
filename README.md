@@ -4,7 +4,9 @@
 
 Current projects (✅ = Finished development, 🔧 = In development, ⏳ = Paused)
 
-🔧 FinanceTrack - a finance tracker for android where you can track your finances
+🔧 Interactive ToDo List - an interactive todo list as a web application
+
+⏳ FinanceTrack - a finance tracker for android where you can track your finances
 
 ⏳ TimeTrack - a simple python timetracking script which will always be extended with further functions
 
