@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @chrissyshw
-- 👀 I’m interested in web, python and iOS development
-- 🌱 I’m currently learning Swift, HTML, CSS, JS and Pyhton
+- 👀 I’m interested in Android and iOS development
+- 🌱 I’m currently learning Swift and Kotlin
 
 Current projects (✅ = Finished development, 🔧 = In development, ⏳ = Paused)
 
-🔧 Interactive ToDo List - an interactive todo list as a web application
+🔧 Haushaltshelfer - An all in one android app that makes your household easier
+
+⏳ Interactive ToDo List - an interactive todo list as a web application
 
 ⏳ FinanceTrack - a finance tracker for android where you can track your finances
 
